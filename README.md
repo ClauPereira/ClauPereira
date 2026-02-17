@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👩‍🎓 Claudinete Pereira
 
-<!--
-**ClauPereira/ClauPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnica Especialista em Cibersegurança**  
 
-Here are some ideas to get you started:
+💻 Estou quase a concluir o **Nível V em Técnico Especialista em Cibersegurança**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Possuo mais de 20 anos de carreira em **Recursos Humanos** e atualmente estou a transitar para a área da **Tecnologia**.  
+
+🚀 Descobri uma verdadeira paixão por tecnologia e estou determinada a aplicar a minha experiência e competências para construir **soluções seguras e eficazes**.  
+
+🎯 Procuro oportunidades para iniciar a minha carreira em **Cibersegurança**, contribuindo com dedicação, conhecimento e vontade de aprender continuamente.
+
+---
+
+## 🛠 Habilidades e Tecnologias (apenas ícones)
+
+![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-%20-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-%20-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-%20-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-%20-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
+![Ethical Hacker Cisco](https://img.shields.io/badge/-%20-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
+![Data Science](https://img.shields.io/badge/-%20-FF6F61?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+
+## <h2 style="color:#FF6F61;">💻 Linguagens</h2>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+<h2><span style="color:white;">🛠</span> <span style="color:#FF6F61;">Habilidades</span></h2>
+
+![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F61?style=for-the-badge)
+
+
+---
+
+<h2><span style="color:white;">🖥</span> <span style="color:#FF6F61;">Ferramentas</span></h2>
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
+![Ethical Hacker Cisco](https://img.shields.io/badge/-Ethical%20Hacker%20Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+<h2><span style="color:white;">🛡</span> <span style="color:#FF6F61;">Projetos e Laboratórios de Cibersegurança</span></h2>
+
+- Tecnologias de Análise de Evidências (Wireshark, Autopsy, Covering Tracks)  
+- Nessus e OpenVAS  
+- OSINT com Maltego  
+- Configuração DHCP (Ubuntu e Windows Server)  
+- Exploit Database  
+
+---
+
+## 📫 Contato
+
+🔗 [LinkedIn](https://linkedin.com/in/claudinetepereira)
+
+
+
+
