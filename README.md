@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Habilidades e Tecnologias (apenas ícones)
+## 🛠 Habilidades e Tecnologias 
 
 ![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
