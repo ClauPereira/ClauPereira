@@ -16,21 +16,94 @@
 
 ![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<img
-align= "left"
-alt="css"
-title="css"
-width="30px"
-style="padding-right: 10px;"
-scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
+![HTML5](https://img.shields.io/badge/-%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-%20-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-%20-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-%20-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-%20-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
 ![Ethical Hacker Cisco](https://img.shields.io/badge/-%20-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-%20-FF6F61?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+## 🛠 Habilidades e Tecnologias 
+<!-- HTML5 -->
+<img
+align="left"
+alt="html"
+title="html"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<!-- JavaScript -->
+<img
+align="left"
+alt="javascript"
+title="javascript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<!-- Python -->
+<img
+align="left"
+alt="python"
+title="python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<!-- C++ -->
+<img
+align="left"
+alt="cplusplus"
+title="cplusplus"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<!-- C# -->
+<img
+align="left"
+alt="csharp"
+title="csharp"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<!-- GitHub -->
+<img
+align="left"
+alt="github"
+title="github"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<!-- Linux -->
+<img
+align="left"
+alt="linux"
+title="linux"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<!-- Kali Linux -->
+<img
+align="left"
+alt="kali linux"
+title="kali linux"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+/>
 
 
 ## <h2 style="color:#FF6F61;">💻 Linguagens</h2>
