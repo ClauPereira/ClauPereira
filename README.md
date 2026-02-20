@@ -12,19 +12,7 @@
 
 ---
 
-## 🛠 Habilidades e Tecnologias 
-
-![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-%20-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-%20-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-%20-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/-%20-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
-![Ethical Hacker Cisco](https://img.shields.io/badge/-%20-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
-![Data Science](https://img.shields.io/badge/-%20-FF6F61?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-## 🛠 Habilidades e Tecnologias 
+## 🛠 Tecnologias e Linguagens
 <!-- HTML5 -->
 <img
 align="left"
@@ -102,16 +90,13 @@ alt="kali linux"
 title="kali linux"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/>
-
-## <h2 style="color:#FF6F61;">💻 Linguagens</h2>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
+/> 
 ---
+
+<!-- Linha separadora -->
+<hr style="clear: both; margin-top: 50px; border: 1px solid #444;" />
+
 
 <h2><span style="color:white;">🛠</span> <span style="color:#FF6F61;">Habilidades</span></h2>
 
@@ -124,7 +109,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
 ![Ethical Hacker Cisco](https://img.shields.io/badge/-Ethical%20Hacker%20Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
 
