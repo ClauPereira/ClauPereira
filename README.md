@@ -16,7 +16,15 @@
 
 ![Python](https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />)
+<img
+align= "left"
+alt="css"
+title="css"
+width="30px"
+style="padding-right: 10px;"
+scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
 ![Wireshark](https://img.shields.io/badge/-%20-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-%20-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-%20-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
