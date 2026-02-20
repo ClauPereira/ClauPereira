@@ -105,6 +105,55 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
 />
 
+<!-- Wireshark -->
+<img
+align="left"
+alt="wireshark"
+title="wireshark"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" 
+/>
+
+<!-- Wazuh -->
+<img
+align="left"
+alt="wazuh"
+title="wazuh"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wazuh/wazuh-original.svg" 
+/>
+
+<!-- Packet Tracer (Cisco) -->
+<img
+align="left"
+alt="packet tracer"
+title="packet tracer"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" 
+/>
+
+<!-- Ethical Hacker Cisco -->
+<img
+align="left"
+alt="ethical hacker cisco"
+title="ethical hacker cisco"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" 
+/>
+
+<!-- Data Science (Apache Spark) -->
+<img
+align="left"
+alt="apache spark"
+title="apache spark"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache_spark/apache_spark-original.svg" 
+/>
 
 ## <h2 style="color:#FF6F61;">💻 Linguagens</h2>
 
