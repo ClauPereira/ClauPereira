@@ -4,7 +4,7 @@
 
 💻 Estou quase a concluir o **Nível V em Técnico Especialista em Cibersegurança**.  
 
-📚 Possuo mais de 20 anos de carreira em **Recursos Humanos** e atualmente estou a transitar para a área da **Tecnologia**.  
+📚 Tenho mais de 20 anos de carreira em **Recursos Humanos** e atualmente estou a transitar para a área da **Tecnologia**.  
 
 🚀 Descobri uma verdadeira paixão por tecnologia e estou determinada a aplicar a minha experiência e competências para construir **soluções seguras e eficazes**.  
 
