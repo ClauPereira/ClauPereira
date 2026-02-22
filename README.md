@@ -63,16 +63,6 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<!-- GitHub -->
-<img
-align="left"
-alt="github"
-title="github"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
 <!-- Linux -->
 <img
 align="left"
