@@ -89,20 +89,42 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 <!-- Linha separadora -->
 <hr style="clear: both; margin-top: 50px; border: 1px solid #444;" />
 
+<h2><span style="color:white;">🎓</span> <span style="color:#FF6F61;">Cursos</span></h2>
 
-<h2><span style="color:white;">🛠</span> <span style="color:#FF6F61;">Habilidades</span></h2>
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        alt="Ethical Hacker Cisco"
+        title="Ethical Hacker Cisco (70h)"
+        src="https://img.shields.io/badge/Ethical%20Hacker%20Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white"
+      />
+    </td>
+       <td align="center">
+      <img 
+        alt="Introdução à Cibersegurança IEFP"
+        title="Introdução à Cibersegurança (IEFP)"
+        src="https://img.shields.io/badge/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a-006400?style=for-the-badge&logoColor=white"
+      />
+    </td>
+     <td align="center">
+      <img 
+        alt="Data Science"
+        title="Curso de Data Science"
+        src="https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge"
+      />
+    </td>
+  </tr>
+</table>
 
-![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F61?style=for-the-badge)
+<hr style="margin-top: 40px; clear: both;" />
 
-
----
 
 <h2><span style="color:white;">🖥</span> <span style="color:#FF6F61;">Ferramentas</span></h2>
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
-![Ethical Hacker Cisco](https://img.shields.io/badge/-Ethical%20Hacker%20Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
