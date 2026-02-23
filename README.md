@@ -1,14 +1,42 @@
-# 👩‍🎓 Claudinete Pereira
+<!-- Nome -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/EthicalHacker2.png"
+       width="60"
+       style="margin-right: 12px;">
+  Claudinete Pereira
+</h1>
 
-**Técnica Especialista em Cibersegurança**  
+<!-- Formação -->
+<p style="margin: 0 0 12px 0; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Ciberseguranca_me.png" width="30" style="margin-right: 12px;">
+  <span style="font-size: 16px; line-height: 1.4;">
+    Estou quase a concluir o <strong>Nível V em Técnico Especialista em Cibersegurança</strong>.
+  </span>
+</p>
 
-💻 Estou quase a concluir o **Nível V em Técnico Especialista em Cibersegurança**.  
+<!-- Histórico Profissional -->
+<p style="margin: 0 0 12px 0; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/HumanTech.png" width="30" style="margin-right: 12px;">
+  <span style="font-size: 16px; line-height: 1.4;">
+    Tenho mais de 20 anos de carreira em <strong>Recursos Humanos</strong> e atualmente estou a transitar para a área da <strong>Tecnologia</strong>.
+  </span>
+</p>
 
-📚 Tenho mais de 20 anos de carreira em **Recursos Humanos** e atualmente estou a transitar para a área da **Tecnologia**.  
+<!-- Mudança de Carreira -->
+<p style="margin: 0 0 12px 0; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/PassionCyber.png" width="30" style="margin-right: 12px;">
+  <span style="font-size: 16px; line-height: 1.4;">
+    Descobri uma verdadeira paixão por tecnologia e estou determinada a aplicar a minha experiência e competências para construir <strong>soluções seguras e eficazes</strong>.
+  </span>
+</p>
 
-🚀 Descobri uma verdadeira paixão por tecnologia e estou determinada a aplicar a minha experiência e competências para construir **soluções seguras e eficazes**.  
-
-🎯 Procuro oportunidades para iniciar a minha carreira em **Cibersegurança**, contribuindo com dedicação, conhecimento e vontade de aprender continuamente.
+<!-- Oportunidades -->
+<p style="margin: 0 0 12px 0; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Search2.png" width="30" style="margin-right: 12px;">
+  <span style="font-size: 16px; line-height: 1.4;">
+    Procuro oportunidades para iniciar a minha carreira em <strong>Cibersegurança</strong>, contribuindo com dedicação, conhecimento e vontade de aprender continuamente.
+  </span>
+</p>
 
 ---
 
@@ -141,6 +169,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 ## 📫 Contato
 
 🔗 [LinkedIn](https://linkedin.com/in/claudinetepereira)
+
+
 
 
 
