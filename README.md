@@ -1,6 +1,6 @@
 <!-- Nome -->
 <h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/EthicalHacker2.png"
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/EthicalHacker3.png"
        width="60"
        style="margin-right: 12px;">
   Claudinete Pereira
@@ -8,7 +8,7 @@
 
 <!-- Formação -->
 <p style="margin: 0 0 12px 0; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Ciberseguranca_me.png" width="30" style="margin-right: 12px;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Ciberseguranca_me2.png" width="40" style="margin-right: 12px;">
   <span style="font-size: 16px; line-height: 1.4;">
     Estou quase a concluir o <strong>Nível V em Técnico Especialista em Cibersegurança</strong>.
   </span>
@@ -16,7 +16,7 @@
 
 <!-- Histórico Profissional -->
 <p style="margin: 0 0 12px 0; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/HumanTech.png" width="30" style="margin-right: 12px;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/HumanTech2.png" width="40" style="margin-right: 12px;">
   <span style="font-size: 16px; line-height: 1.4;">
     Tenho mais de 20 anos de carreira em <strong>Recursos Humanos</strong> e atualmente estou a transitar para a área da <strong>Tecnologia</strong>.
   </span>
@@ -24,7 +24,7 @@
 
 <!-- Mudança de Carreira -->
 <p style="margin: 0 0 12px 0; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/PassionCyber.png" width="30" style="margin-right: 12px;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/PassionCyber2.png" width="40" style="margin-right: 12px;">
   <span style="font-size: 16px; line-height: 1.4;">
     Descobri uma verdadeira paixão por tecnologia e estou determinada a aplicar a minha experiência e competências para construir <strong>soluções seguras e eficazes</strong>.
   </span>
@@ -32,15 +32,21 @@
 
 <!-- Oportunidades -->
 <p style="margin: 0 0 12px 0; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Search2.png" width="30" style="margin-right: 12px;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Search3.png" width="40" style="margin-right: 12px;">
   <span style="font-size: 16px; line-height: 1.4;">
     Procuro oportunidades para iniciar a minha carreira em <strong>Cibersegurança</strong>, contribuindo com dedicação, conhecimento e vontade de aprender continuamente.
   </span>
 </p>
 
 ---
+<!-- Tecnologias e Linguagens -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/EthicalHacker3.png"
+       width="60"
+       style="margin-right: 12px;">
+  Tecnologias e Linguagens
+</h1>
 
-## 🛠 Tecnologias e Linguagens
 <!-- HTML5 -->
 <img
 align="left"
@@ -117,7 +123,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 <!-- Linha separadora -->
 <hr style="clear: both; margin-top: 50px; border: 1px solid #444;" />
 
-<h2><span style="color:white;">🎓</span> <span style="color:#FF6F61;">Cursos</span></h2>
+<!-- Cursos -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/courses.png"
+       width="60"
+       style="margin-right: 12px;">
+  Cursos
+</h1>
 
 <table>
   <tr>
@@ -147,16 +159,27 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 
 <hr style="margin-top: 40px; clear: both;" />
 
+<!-- Ferramentas -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/tools.png"
+       width="60"
+       style="margin-right: 12px;">
+  Ferramentas
+</h1>
 
-<h2><span style="color:white;">🖥</span> <span style="color:#FF6F61;">Ferramentas</span></h2>
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-4F8BC9?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6600?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
-
-<h2><span style="color:white;">🛡</span> <span style="color:#FF6F61;">Projetos e Laboratórios de Cibersegurança</span></h2>
+<!-- Projetos e Laboratórios de Cibersegurança -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/laboratory.png"
+       width="60"
+       style="margin-right: 12px;">
+  Projetos e Laboratórios de Cibersegurança
+</h1>
 
 - Tecnologias de Análise de Evidências (Wireshark, Autopsy, Covering Tracks)  
 - Nessus e OpenVAS  
@@ -165,8 +188,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilin
 - Exploit Database  
 
 ---
-
-## 📫 Contato
+<!-- Contato -->
+<h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Contacts.png"
+       width="60"
+       style="margin-right: 12px;">
+  Contato
+</h1>
 
 🔗 [LinkedIn](https://linkedin.com/in/claudinetepereira)
 
