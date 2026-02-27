@@ -41,7 +41,7 @@
 ---
 <!-- Tecnologias e Linguagens -->
 <h1 style="margin: 0 0 14px 0; font-size: 34px; font-weight: 800; display: flex; align-items: center;">
-  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Tech_Lang.png"
+  <img src="https://github.com/ClauPereira/Icons/raw/main/cyber/Tech_Lang2.png"
        width="60"
        style="margin-right: 12px;">
   Tecnologias e Linguagens
